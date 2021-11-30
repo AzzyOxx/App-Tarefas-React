@@ -1,0 +1,14 @@
+{
+    "taredas": [
+        {
+            "id": 1,
+            "descricao": "cortar a grama",
+            "finalizada": false
+        },
+        {
+            "id": 2,
+            "descricao": "limpar casa",
+            "finalizada": false
+        }
+    ] 
+}
